@@ -4,7 +4,8 @@ This repo contains some of games and projects programmed in JAVA.
 - Richard Wu 2017
 ## Notes
 - I developed them for fun when I first got in touch with programming in high school.
-- Some of the source codes are in this repo and some of the source codes are missing with only the compiled executable files left
+- Some of the source codes are in this repo and some of the source codes are missing with only the compiled executable files left.
+- These codes represent my precious memory.
 ## Introduction
 - The GPA calculator developed for SSBS high school
 - Tetris game
@@ -18,6 +19,7 @@ This repo contains some of games and projects programmed in JAVA.
 - Exam timer developed for SSBS high school (only the executable)
 - 24 point game and pro version (only the executable)
 - Heathstore draw card simulator (only the executable)
+- Tetris.Neon (only the executable)
 - Snake game 1 player version 1.0, 2.0, 2.1 (only the executable)
 - Snake game 2 players version 2.2, 2.3 (only the executable)
 ## License
